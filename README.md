@@ -1,2 +1,2 @@
-# week1--exploratry-data-analysis--project1
-week-1 coursera project1
+# Project 01
+Please Visit [https://github.com/UtkarshPathrabe/ExData_Plotting1](https://github.com/UtkarshPathrabe/ExData_Plotting1) for more details.  
